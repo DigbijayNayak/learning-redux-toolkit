@@ -1,0 +1,90 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Springs Robot",
+      "detail": "Super Springs Robot",
+      "price": 70,
+      "imageUrl": "../assets/robot1.png"
+    },
+    {
+      "id": "2",
+      "name": "Sergeant Robot",
+      "detail": "Super Sergeant Robot",
+      "price": 129,
+      "imageUrl": "../assets/robot2.png"
+    },
+    {
+      "id": "3",
+      "name": "River Robot",
+      "detail": "Super River Robot",
+      "price": 91,
+      "imageUrl": "../assets/robot3.png"
+    },
+    {
+      "id": "4",
+      "name": "Rex Robot",
+      "detail": "Super Rex Robot",
+      "price": 47,
+      "imageUrl": "../assets/robot4.png"
+    },
+    {
+      "id": "5",
+      "name": "Portman Robot",
+      "detail": "Super Portman Robot",
+      "price": 95,
+      "imageUrl": "../assets/robot5.png"
+    },
+    {
+      "id": "6",
+      "name": "Levi Robot",
+      "detail": "Super Levi Robot",
+      "price": 89,
+      "imageUrl": "../assets/robot6.png"
+    },
+    {
+      "id": "7",
+      "name": "Fred Robot",
+      "detail": "Super Fred Robot",
+      "price": 45,
+      "imageUrl": "../assets/robot7.png"
+    },
+    {
+      "id": "8",
+      "name": "Elton Robot",
+      "detail": "Super Elton Robot",
+      "price": 12,
+      "imageUrl": "../assets/robot8.png"
+    },
+    {
+      "id": "9",
+      "name": "Eileen Robot",
+      "detail": "Super Eileen Robot",
+      "price": 39,
+      "imageUrl": "../assets/robot9.png"
+    },
+    {
+      "id": "10",
+      "name": "Dolores Robot",
+      "detail": "Super Dolores Robot",
+      "price": 102,
+      "imageUrl": "../assets/robot10.png"
+    },
+    {
+      "id": "11",
+      "name": "Dolly Robot",
+      "detail": "Super Dolly Robot",
+      "price": 82,
+      "imageUrl": "../assets/robot11.png"
+    },
+    {
+      "id": "12",
+      "name": "Bubbles Robot",
+      "detail": "Super Bubbles Robot",
+      "price": 55,
+      "imageUrl": "../assets/robot12.png"
+    }
+  ]
+}
+
+
